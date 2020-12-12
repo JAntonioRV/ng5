@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "ng5"
+  "defaultProject": "ng5",
+  "cli": {
+    "analytics": "db96ffbd-1cab-40ff-b7ae-6962abe9c9bf"
+  }
 }
